@@ -82,7 +82,7 @@ Machine learning system that forecasts stock prices and generates Buy/Sell/Hold 
 | Stack | Python, Scikit-learn, FastAPI, React |
 | Focus | Price forecasting, signal generation, real-time dashboard |
 | Date | January 2026 |
-| Repository | [github.com/Bhagyalatha-K](https://github.com/Bhagyalatha-K) |
+| Repository | (https://github.com/nagamutyalu/ai-stock-prediction-alert-system) |
 
 </details>
 
@@ -97,7 +97,7 @@ An AI-based summarizer and Q&A system that generates concise summaries of resear
 | Stack | NLP/LLMs, React (frontend), Node.js (backend) |
 | Focus | Document summarization, contextual Q&A |
 | Date | April 2026 |
-| Repository | [github.com/Bhagyalatha-K](https://github.com/Bhagyalatha-K) |
+| Repository | [https://github.com/Bhagyalatha-K/Research_Paper_Summarizer_using_NLP) |
 
 </details>
 
