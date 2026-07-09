@@ -1,9 +1,10 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:5B0EAD,100:8A2BE2&height=200&section=header&text=Bhagyalatha%20Kadali&fontSize=42&fontColor=E6D9FF&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AI%2FML%20%26%20NLP%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B79CED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+RGUKT+Srikakulam;Exploring+AI+%2F+ML+%2F+NLP;Building+Stock+Prediction+Systems;Seeking+AI+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B79CED&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93%20B.Tech%20CSE%20%40%20RGUKT%20Srikakulam;%F0%9F%A4%96%20Building%20AI-powered%20applications;%F0%9F%A7%A0%20Exploring%20AI%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20LLMs;%F0%9F%8C%B1%20Eager%20to%20gain%20industry%20experience" alt="Typing SVG" />
 </a>
 
 ![Location](https://img.shields.io/badge/Location-Amalapuram,%20Andhra%20Pradesh-5B0EAD?style=flat-square&logo=googlemaps&logoColor=white)
@@ -37,14 +38,6 @@ I love solving problems using:
 **Languages**
 
 ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c)
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react)
-
-**Backend**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 **ML / Data Tooling**
 
@@ -82,7 +75,7 @@ Machine learning system that forecasts stock prices and generates Buy/Sell/Hold 
 | Stack | Python, Scikit-learn, FastAPI, React |
 | Focus | Price forecasting, signal generation, real-time dashboard |
 | Date | January 2026 |
-| Repository | (https://github.com/nagamutyalu/ai-stock-prediction-alert-system) |
+| Repository | [https://github.com/nagamutyalu/ai-stock-prediction-alert-system |
 
 </details>
 
@@ -97,7 +90,7 @@ An AI-based summarizer and Q&A system that generates concise summaries of resear
 | Stack | NLP/LLMs, React (frontend), Node.js (backend) |
 | Focus | Document summarization, contextual Q&A |
 | Date | April 2026 |
-| Repository | [https://github.com/Bhagyalatha-K/Research_Paper_Summarizer_using_NLP) |
+| Repository | [(https://github.com/Bhagyalatha-K/Research_Paper_Summarizer_using_NLP) |
 
 </details>
 
